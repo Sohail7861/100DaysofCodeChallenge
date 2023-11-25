@@ -51,3 +51,5 @@ Day 9
 5 - Length of Longest Substring
 6 - Maximum Subarray of Size K
 7 - Smallest distinct window
+8 - Maximum sum of subarray less than or equal to x
+9 - Smallest window containing 0, 1 and 2
