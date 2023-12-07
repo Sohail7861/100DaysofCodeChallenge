@@ -102,3 +102,8 @@ Day 20
 1 - Set matrix zeroes
 2 - Rotate matrix by 90 degree (Transpose + Reverse rows)
 3 - Print the matrix in spiral manner
+4 - Search in a sorted matrix
+5 - Boundary traversal of matrix
+6 - Boolean Matrix
+7 - Row with max 1s
+8 - Find distinct elements in a matrix
