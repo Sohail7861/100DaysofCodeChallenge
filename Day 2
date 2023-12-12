@@ -120,7 +120,7 @@ Day 22
 3 - Upper Bound
 4 - Search Insert Position
 5 - Floor and Ceil in Sorted Array
-
+12
 Day 23
 * Web Development *
 
@@ -128,5 +128,13 @@ Day 24
 6 - First and Last Occurence of Element
 7 - Count occurences of an element in a sorted array
 8 - Search in a sorted rotated array 1
+
+Day 25 
+9 - Minimum in Rotated Sorted Array
+10 - Find out how many times the array has been rotated
+11 - Search single element in a sorted array
+12 - Find peak element
+
+
 9 - Search in a sorted rotated array 2
 
