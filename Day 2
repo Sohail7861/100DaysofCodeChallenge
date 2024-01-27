@@ -259,7 +259,13 @@ Day 56
 
 Day 57
 * Leetcode Top Interview 150
-Arrays : 1 - Merge Sorted Array
-         2 - Remove element
-Stacks : 3 - Valid Paranthesis
-LL     : 4 - Loop in a Linked List
+Arrays   : 1 - Merge Sorted Array
+           2 - Remove element
+Stacks   : 3 - Valid Paranthesis
+LL       : 4 - Loop in a Linked List
+2 Pointer: 5 - 3 Sum
+SlidigW  : 6 - Minimum Size Subarray
+Kadane'sA: 7 - Maximum Subarray
+Matrix   : 8 - Rotate Matrix
+BinarySea: 9 - Search Insert Position
+Math     : 10 - Palindrome
